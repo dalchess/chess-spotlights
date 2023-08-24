@@ -11,32 +11,37 @@ Examples:
 
 1) **White to play**  
 
-![image](https://github.com/dalchess/chess-spotlights/assets/66438237/4b408a2a-718f-473b-ba09-f8bb5179327c)  
+![image](https://github.com/dalchess/chess-spotlights/assets/66438237/9036ce79-d8ee-44a1-809b-8bf6b3327de1)
+
 In this position, white has the opportunity to obtain the opposition due to a simple reason. White can control the e3 square, forcing the black king to step left or right, thereby, obtaining opposition. Since white has the opposition, the position is an easy draw because white can control the key squares and prevent the black king from ever bringing the king to d2 or f2 square (which is important in order for black to promote the pawn).
 
 2) **White to play**  
 
-![image](https://github.com/dalchess/chess-spotlights/assets/66438237/e111e343-78fd-4b0a-888d-38c3edc614c3)  
+![image](https://github.com/dalchess/chess-spotlights/assets/66438237/08bce9a7-b172-4287-899f-cc8cfd6b3f03)
+ 
 In this position, white has the opportunity to obtain the opposition by stepping in front of the c4 pawn, forcing black king to step left or right, thereby, obtaining opposition. White just needs to step in the opposite direction of black king and aim to bring the king to either d7 or b7 square (which is important in order for white to control the pawn). 
 
 ## What is Distant Opposition?
 Distant Opposition is a position in which the kings are on the same rank or file but are separated by more than one square. If there are an odd number of squares between the kings, the player not having the move has the (distant) opposition.
 
 Examples:
-1) **White to play**  
+1) **Black to play**  
 
-![image](https://github.com/dalchess/chess-spotlights/assets/66438237/b5999b81-128c-4d7e-885e-d244da7c1f19)  
+![image](https://github.com/dalchess/chess-spotlights/assets/66438237/288baa42-e113-4580-8380-02fe2f7f670a)
+
 In this position, white and black kings are both on the same rank and it is black's turn. Since there are odd number of squares between black and white king, white has the opposition. White is able to control the key squares and thus, hold a draw.
 
 2) **White to play**  
 
-![image](https://github.com/dalchess/chess-spotlights/assets/66438237/daedf9ae-59b7-49e4-90a9-fd5657e8e9c0)  
+![image](https://github.com/dalchess/chess-spotlights/assets/66438237/583fc7fe-2e90-4635-a165-61eac55e94e2)
+ 
 In this position, white and black kings are both on the same rank and it is white's turn. There are even number of squares (six) between black and white king, but it is white to move. White can play Ke2 and reduce the number of squares to 5 and pass the turn to black. Remember, odd number of squares + black to play = white has opposition. Thus, white is able to control the squares and win the game.
 
 ## Key Takeaways
 - In the King Pawn endgame, always aim to hold the opposition in order to maximize your drawing or winning chances
 - If there are odd number of squares between Kings and it is white to play, black has the opposution (and vice versa 😙)
 - If there is 1 square between Kings and it is white to play, black has the opposition (and vice versa 😄)
+- Try to transpose a position into a known winning endgame
 - The reason for taking the opposition is to control **key squares** so remember to use common sense as well
 
 
